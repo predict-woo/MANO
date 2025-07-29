@@ -23,6 +23,6 @@ setup(
           'scipy',
           'chumpy'
       ],
-      packages=['mano']
+      packages=['mano_lib']
 
     )
